@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/home/yu/Documents/github'
+let g:netrw_dirhist_2='/home/yi/.vim/bundle/snipmate/plugin'
+let g:netrw_dirhist_3='/home/yi/Documents/rails_space/app/views/layouts'
+let g:netrw_dirhist_4='/home/yi/Documents/xiaoxiaoyi.github.com/_posts'
